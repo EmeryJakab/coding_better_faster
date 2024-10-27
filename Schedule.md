@@ -1,7 +1,8 @@
 ## Workshop Schedule
 
 ### 9:00 - 9:30: Introductions
-- Participants introduce themselves: name, job, an R project they've built or want to build.
+- Participants introduce themselves: name, job, an R/python project they've built or want to build.
+- Poll: How many people are using LLMs, how many people use git, docker (https://app.sli.do/event/keqyuyGKeHT5ypDdqunYeq)
 
 ### 9:30 - 10:00: What is Clean Code (Benjy)
 
@@ -20,7 +21,8 @@
   - Why we do this: tracking our changes and sharing our work
   - Local version control using git: initializing, pushing, and committing.
   - Collaborating with GitHub.
-- **Exercise:** Fork, clone, edit, and submit a pull request on GitHub.
+  - Git in Rstudio (Benjy)
+- **Exercise:** Fork, clone, edit, and submit a pull request on GitHub. (https://github.com/abigailhaddad/r_workshop_code/blob/master/main.r)
 
 ### 12:00 - 1:00: Lunch Break
 
@@ -46,7 +48,7 @@
   - Virtual Environments in python. 
   - Renv and ongoing landscape of virtual environments in R.
   - Docker--what is it and why?
-- **Exercise:** Deploy an application using docker..
+- **Exercise:** Deploy an application using docker (if needed). 
 
 ### 4:15 - 5:00: Conclusion
 - Summarizing the day's learning.
